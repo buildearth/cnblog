@@ -1,0 +1,25 @@
+.fixed {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    padding: 10px 19% !important;
+}
+
+#settlement {
+    padding: 10px;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.tab-pane {
+    padding: 20px 20px 0;
+}
+
+.thumbnail {
+    border-color: white;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}

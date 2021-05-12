@@ -1,0 +1,101 @@
+/* 阿里图标链接 */
+@font-face {
+    font-family: 'iconfont';  /* project id 467496 */
+    src: url('//at.alicdn.com/t/font_467496_5ioqi9o98nn1xlxr.eot');
+    src: url('//at.alicdn.com/t/font_467496_5ioqi9o98nn1xlxr.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_467496_5ioqi9o98nn1xlxr.woff') format('woff'),
+    url('//at.alicdn.com/t/font_467496_5ioqi9o98nn1xlxr.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_467496_5ioqi9o98nn1xlxr.svg#iconfont') format('svg');
+}
+
+.icon-zhuce {
+    font-family: "iconfont" !important;
+    font-size: 13px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.4px;
+    -moz-osx-font-smoothing: grayscale;
+    margin-top: 20px;
+}
+
+body, button, ol, ul, li, p, dl, dd, h1, h2, h3, h4, h5, h6, img, iframe, input, form, textarea {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    border: 0;
+}
+
+body {
+    background-color: #f4f5f5;
+}
+
+nav {
+    background-color: white !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.card {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1);
+    border-radius: 3px;
+    background-color: white;
+    padding: 20px;
+    overflow: hidden;
+}
+
+/* 为了便于观察边框 */
+.myborder {
+    border: solid 1px black;
+}
+
+.back_top {
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    right: 32px;
+    top: 500px;
+}
+
+#book-item .caption p {
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#book-item .price {
+    font-size: 1.3em;
+    color: red;
+}
+
+#book-item img {
+    width: 150px;
+    height: 150px;
+}
+
+#book-item .caption {
+    padding: 5px 16px 0;
+}
+
+#book-item .author {
+    font-size: .8em;
+}
+
+.col-md-2 {
+    padding: 0;
+}
+
+.col-md-8 {
+    padding: 0 10px;
+    margin-bottom: 10px;
+}
+
+.list-group-item-heading {
+    margin-bottom: 0;
+}
+
+.list-heading {
+    background-color: #f4f5f5;
+}
